@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img width="700" height="250" src="https://github.com/d-pap/d-pap/blob/main/readme-header.png">
+  <img width="1235" height="338" src="https://github.com/d-pap/d-pap/blob/main/umich-github-readme-header.png">
 </p>
 
 ### Hi there 👋, my name is Derek Papierski
