@@ -25,7 +25,7 @@ I am a former residential carpenter who found a passion for software. After leav
 
 
 - 🌱 Things I'm learning: C++ / PYTHON / UNIX / AZURE
-- 📫 How to reach me:
+- 📫 Where to find me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/d-pap)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.derekpap.com)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=d-pap)  
