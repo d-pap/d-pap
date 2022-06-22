@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-I am a former residential carpenter who found a passion for software. After leaving the construction business, I enrolled back in college where I am currently pursuing a dual major in Computer Science & Data Science at the University of Michigan-Dearborn. Instead of building houses, I am now eager to collaborate with others to build great software!
+I am a former residential carpenter who found a passion for software. After leaving the construction business, I enrolled back in college where I am currently pursuing a dual major in Computer Science & Data Science at the University of Michigan-Dearborn. I am eager to collaborate with others and learn about building great software!
 
 
 - 🌱 Things I'm learning: C++ / PYTHON / UNIX / AZURE
