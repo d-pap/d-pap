@@ -3,10 +3,8 @@
 
 <!-- About Me Section -->
 ## :raising_hand: About Me
-* 🔭 I’m currently working on a dual-major in Data Science and Computer Science at University of Michigan in Dearborn
-* 🌱 I’m currently learning: PYTHON | SQL | AI/ML | C++ | Statistics | Tableau
-* :pencil2: I'm currently a student at University of Michigan in Dearborn, Michigan.
-* :chart_with_upwards_trend: I'm currently searching for an internship or full time job as a data analyst or software developer.
+* :pencil2: I'm currently a student at University of Michigan in Dearborn, Michigan earning a dual major in Data Science and Computer Science.
+* :chart_with_upwards_trend: I'm searching for an internship or full time job as a data analyst or software developer.
 * :triangular_ruler: Before continuing my studies, I was a residential carpenter for a couple years where I learned valuable soft skills that are helpful in any industry. I also worked as a math tutor helping first year engineering students with their math skills.
 
 <!-- Skills and Tools Section -->
