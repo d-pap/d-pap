@@ -23,6 +23,8 @@ A strong and versatile problem-solver with a unique skill set who is passionate 
 - 📫 Where to find me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/d-pap)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.derekpap.com)  
 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=d-pap)  
 
 ![Profile views](https://gpvc.arturio.dev/d-pap)  
