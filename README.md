@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, my name is Derek Papierski
-#### Student at University of Michigan-Dearborn
+#### Data Science & Computer Science Student at University of Michigan-Dearborn
 
 
+A strong and versatile problem-solver with a unique skill set who is passionate about using data to drive decision-making and improve efficiency.
 
-I am a former residential carpenter who found a passion for software. After leaving the construction business, I enrolled back in college where I am currently pursuing a dual major in Computer Science & Data Science at the University of Michigan-Dearborn. I am eager to collaborate with others and learn about building great software!
 
-
-- 🌱 Things I'm learning: C++ / PYTHON / UNIX / AZURE
+- 🌱 Things I'm learning: PYTHON | SQL | AI/ML | C++ | Statistics | Tableau
 - 📫 Where to find me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/d-pap)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.derekpap.com)  
 
