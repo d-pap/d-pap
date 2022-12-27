@@ -46,7 +46,7 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 ### Hi, I'm Derek Papierski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
-## About Me
+## :raising_hand: About Me
 - 🔭 I’m currently working on a dual-major in Data Science and Computer Science at University of Michigan in Dearborn
 - 🌱 I’m currently learning: PYTHON | SQL | AI/ML | C++ | Statistics | Tableau
 
