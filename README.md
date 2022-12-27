@@ -14,10 +14,9 @@
 
 <!-- Favorite Projects Section --> 
 ## :star: Favorite Projects
-* **Stock Insights with Machine Learning** (*Python*)- The purpose of this project is to use historical stock data from Yahoo Finance to analyze and predict future stock movements. The project uses a combination of data cleaning and machine learning techniques, specifically a random forest classifier, to make predictions about whether a stock will go up or down in value the next day.
+* **Stock Insights with Machine Learning** (*Python*) - The purpose of this project was to use historical stock data from Yahoo Finance to analyze and predict future stock movements. The project uses a combination of data cleaning and machine learning techniques, specifically a random forest classifier, to make predictions about whether a stock will go up or down in value the next day.
 * **Twitter Sentiment Analysis** (*Python*) - This is a data analysis project that involves loading a dataset of tweets, exploring the data, cleaning and preprocessing the text, and then using machine learning to classify the tweets as either positive or negative. The project uses the Pandas library for data manipulation, Matplotlib for data visualization, and scikit-learn for building the machine learning model. The resulting model is able to classify tweets with an accuracy of around 90%.
 * **Pharmacy Database** (*SQL*) -	The purpose of this project is to explore the role of database management systems in pharmacies. To do this project, I imported a pharmacy-related dataset into MySQL, designed a conceptual model, translated the ER model into a SQL schema, executed SQL queries to uncover interesting findings, and deployed indexes on the database to improve performance. 
-<!-- Spotify DJ Program? -->
 
 <!-- Currently Improving My Skills In Section -->
 ## :computer: Currently Improving My Skills In...
