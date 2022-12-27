@@ -43,28 +43,19 @@ https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&log
 <!-- GITHUB BADGE:
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 -->
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=d-pap)  
-
-![Profile views](https://gpvc.arturio.dev/d-pap)  
-
-
--->
-
-### Hi, I'm Anonymous <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Derek Papierski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
 ## Your short description
-- 🔭 I’m currently working on - ❔❔❔❔
-- 🌱 I’m currently learning - ❔❔❔❔
-- 👯 I’m looking to collaborate with - ❔❔❔❔
-- 💬 Ask me about - ❔❔❔❔
-- 🥅 2020 Goal - ❔❔❔❔
-- ⚡ Fun fact - ❔❔❔❔
+- 🔭 I’m currently working on a dual-major in Data Science and Computer Science at University of Michigan in Dearborn
+- 🌱 I’m currently learning: PYTHON | SQL | AI/ML | C++ | Statistics | Tableau
 
-<!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=d-pap&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+<!-- [![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=d-pap&count_private=true&include_all_commits=true&theme=radical)](https://google.com) -->
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=d-pap)  
+![Profile views](https://gpvc.arturio.dev/d-pap)  
+
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
