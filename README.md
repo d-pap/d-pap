@@ -24,6 +24,10 @@
 * **Python** from Inferential Statistical Analysis course by University of Michigan and other UMich Online courses.
 * **Tableau** from Tableau for Data Science and Data Visualization course by freeCodeCamp.
 
+* **SQL** from [DataLemur][datalemur] and [LeetCode][lc] by solving various challenges.
+* **Python** from [Statistics with Python][umstats] course by University of Michigan and other UMich Online python courses.
+* **Tableau** from [Tableau for Data Science and Data Visualization][tableauyt] course on YouTube.
+
 <!-- Socials Icons Section -->
 ## :mailbox: Connect With Me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -31,7 +35,13 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
-<!-- This section you create this variables that are used in Socials Icons Section -->
+<!-- This section you create this variables that are used in Socials Icons Section and links -->
 [website]: https://www.derekpap.com
 [twitter]: https://twitter.com/dpapcodes
 [linkedin]: https://www.linkedin.com/in/derekpapierski/
+
+[datalemur]: https://datalemur.com/
+[lc]: https://leetcode.com/
+[umstats]: https://www.coursera.org/specializations/statistics-with-python
+[tableauyt]: https://www.youtube.com/watch?v=Wh4sCCZjOwo
+
