@@ -43,11 +43,9 @@
 <br />
 
 
-[LinkedIn profile][linkedin]
-
-[Website (under construction)][website]
-
-[Twitter][twitter]
+* [LinkedIn profile][linkedin]
+* [Website (under construction)][website]
+* [Twitter][twitter]
 
 <!-- This section you create this variables that are used in Socials Icons Section and links -->
 [website]: https://www.derekpap.com
