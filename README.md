@@ -43,6 +43,7 @@
 <br />
 
 
+
 * [LinkedIn][linkedin]
 * [Twitter][twitter]
 * [Website][website] (under construction)
@@ -50,6 +51,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+[![Twitter](https://icons8.com/icon/13963/twitter) Twitter](https://twitter.com/)
 
 <!-- This section you create this variables that are used in Socials Icons Section and links -->
 [website]: https://www.derekpap.com
