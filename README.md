@@ -20,10 +20,6 @@
 
 <!-- Currently Improving My Skills In Section -->
 ## :computer: Currently Improving My Skills In...
-* **SQL** from DataLemur and LeetCode by solving various challenges.
-* **Python** from Inferential Statistical Analysis course by University of Michigan and other UMich Online courses.
-* **Tableau** from Tableau for Data Science and Data Visualization course by freeCodeCamp.
-
 * **SQL** from [DataLemur][datalemur] and [LeetCode][lc] by solving various challenges.
 * **Python** from [Statistics with Python][umstats] course by University of Michigan and other UMich Online python courses.
 * **Tableau** from [Tableau for Data Science and Data Visualization][tableauyt] course on YouTube.
@@ -41,7 +37,7 @@
 [linkedin]: https://www.linkedin.com/in/derekpapierski/
 
 [datalemur]: https://datalemur.com/
-[lc]: https://leetcode.com/
+[lc]: https://leetcode.com/dpap/
 [umstats]: https://www.coursera.org/specializations/statistics-with-python
 [tableauyt]: https://www.youtube.com/watch?v=Wh4sCCZjOwo
 
