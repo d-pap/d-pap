@@ -21,7 +21,7 @@
 <!-- Currently Improving My Skills In Section -->
 ## :computer: Currently Improving My Skills In...
 * **SQL** from DataLemur and LeetCode by solving various challenges.
-* **Python** from LeetCode and Inferential Statistical Analysis course by University of Michigan on Coursera.
+* **Python** from Inferential Statistical Analysis course by University of Michigan and other UMich Online courses.
 * **Tableau** from Tableau for Data Science and Data Visualization course by freeCodeCamp.
 
 <!-- Socials Icons Section -->
