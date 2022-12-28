@@ -42,6 +42,11 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
+
+[LinkedIn profile][linkedin]
+[Website (under construction)][website]
+[Twitter][twitter]
+
 <!-- This section you create this variables that are used in Socials Icons Section and links -->
 [website]: https://www.derekpap.com
 [twitter]: https://twitter.com/dpapcodes
