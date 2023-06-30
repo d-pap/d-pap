@@ -27,7 +27,7 @@
 
 <!-- Skills and Tools Section -->
 ## :hammer_and_wrench: Skills & Tools
-* **Tools**: Python; SQL; AI/ML; Statistics; C++; Tableau
+* **Tools**: Python; SQL; AI/ML; Tableau; R; Statistics; C++
 * **Skills**: Critical Thinking; Problem Solving; Mentoring; Communication; Leadership; Teamwork
 
 <!-- Favorite Projects Section --> 
