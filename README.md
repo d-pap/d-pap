@@ -1,57 +1,111 @@
 <!-- Name Header -->
----
 
+---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi! I'm Derek Papierski, a data scientist, developer, and student. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+# **Derek Papierski**  
+### AI Engineer • Medical AI • Applied NLP • AI Research
+Ann Arbor, Michigan  
+
 </div>
-  
-
-<!--
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
--->
-
 
 ---
 
+I specialize in designing and building **high-reliability RAG systems**, agentic pipelines, and LLM-powered applications for complex, real-world domains. My work blends AI engineering, backend development, and evaluation science.
 
 <!-- About Me Section -->
 
+### 🧠 Currently Working On
+#### **Scleroderma AI Health Coach App (Michigan Medicine, UMich)**  
+_**Role**: AI Systems Engineer_  
+
+* Building a production-grade **agentic RAG API** for an AI Health Coach app 
+* Designing a multi-stage ingestion pipeline (discovery → PDF/HTML → Markdown → chunking → embedding → ingestion)  
+* Implementing **hybrid dense/sparse retrieval**, **HyDE**, **RRF**, **contextual embeddings**, **MMR**, and metadata-aware ranking  
+* Managing Linux production deployment on Red Hat 9.6 (systemd, roles, permissions, environment isolation)  
+* Mentoring UROP undergraduate researchers on data curation, evaluation methods, and AI research methods
+* Developing a full evaluation suite (Human and automated evals, retrieval accuracy benchmarks, etc.)
+
+#### **Other AI & Software Projects**
+* **CodeCoach (JS/AWS):** AI-powered platform helping ACM/ICPC students master competitive programming  
+* **Sentiment Analysis (Python):** NLP pipelines using scikit-learn & Jupyter  
+* **Bank Churn Prediction:** ML classification project using Pandas, sklearn, and model evaluation techniques  
+
+---
+
+### 🔬 Research Interests
+
+* Evaluation of AI/RAG systems for safety and reliability  
+* Metrics that align with clinical expert judgment  
+* Effects of chunking, metadata, and fusion strategies on retrieval quality  
+* Agentic architectures for multi-step reasoning  
+* How LLMs behave in high-stakes or domain-specific contexts  
+* Reducing hallucination and improving trust in AI systems  
+
+---
+
+<!-- Field of Interest Section -->
+
+### 🏗️ Technical Focus Areas
+
+#### 🟦 **RAG Engineering and Agentic Pipelines**
+* End-to-end agentic RAG flows (retrieve → rewrite → generate → evaluate → route)  
+* Hybrid search (dense + BM25) with advanced fusion methods (RRF, weighted fusion)
+* Embedding optimization: Chunking strategies, contextual embeddings, HyDE (Hypothetical Document Embeddings), etc.
+
+#### 🟧 **AI/ML & NLP**
+* LLM prompting, instruction design, constraint prompts  
+* Document understanding and metadata extraction  
+* Classical ML: classification, clustering, analysis  
+* Python experimentation (Pandas, NumPy, scikit-learn, Jupyter)
+
+#### 🟩 **Backend & Infrastructure**
+* REST API design, FastAPI, AWS API Gateway, AWS Lambda
+* Dockerized Postgres/pgvector environments  
+* Linux systems (RedHat, Ubuntu)
+* Azure OpenAI & OpenAI API integrations  
+
+#### 🟨 **Evaluation & Safety**
+* Retrieval relevance scoring (manual and automated)  
+* Large-scale test harnesses with custom evaluators and frameworks like RAGAS, TruLens, Promptfoo
+* High-stakes domain evaluation methodology and research design 
+
+---
 
 <!-- Skills and Tools Section -->
-## :hammer_and_wrench: Skills & Tools
-* **Tools**: Python; SQL; AI/ML; R; Tableau; SPSS; Statistics; C++
-* **Skills**: Critical Thinking; Problem Solving; Mentoring; Communication; Leadership; Teamwork
 
-<!-- Favorite Projects Section --> 
-## :star: Favorite Projects
-* **Stock Insights with Machine Learning** (*Python*) - The purpose of this project was to use historical stock data from Yahoo Finance to analyze and predict future stock movements. The project uses a combination of data cleaning and machine learning techniques, specifically a random forest classifier, to make predictions about whether a stock will go up or down in value the next day.
-* **Twitter Sentiment Analysis** (*Python*) - This is a data analysis project that involves loading a dataset of tweets, exploring the data, cleaning and preprocessing the text, and then using machine learning to classify the tweets as either positive or negative. The project uses the Pandas library for data manipulation, Matplotlib for data visualization, and scikit-learn for building the machine learning model. The resulting model is able to classify tweets with an accuracy of around 90%.
-* **Pharmacy Database** (*SQL*) -	The purpose of this project is to explore the role of database management systems in pharmacies. To do this project, I imported a pharmacy-related dataset into MySQL, designed a conceptual model, translated the ER model into a SQL schema, executed SQL queries to uncover interesting findings, and deployed indexes on the database to improve performance. 
+### 🔧 Tech Stack
 
-<!-- Currently Improving My Skills In Section -->
-## :computer: Currently Improving My Skills In...
-* **SQL** from [DataLemur][datalemur] and [LeetCode][lc] by solving various challenges.
-* **Python** from [Statistics with Python][umstats] course by University of Michigan and other UMich Online python courses.
-* **Tableau** from [Tableau for Data Science and Data Visualization][tableauyt] course on YouTube.
+* **Languages**: Python • SQL • JavaScript • R  
+* **AI/LLM**: LangGraph • LangChain • LlamaIndex • HuggingFace • OpenAI SDKs  
+* **Databases**: PostgreSQL • pgvector • MySQL  
+* **Cloud & Infra**: Azure • AWS • Docker • Linux (Red Hat, Ubuntu)  
+* **Tools**: GitHub Actions • systemd • Tableau
+
+
+---
+
+### 🧭 Mentorship
+
+I mentor undergraduate researchers (UROP at UMich) on:
+
+* Data curation for RAG systems  
+* Chunking and ingestion workflow design  
+* Retrieval evaluation and metrics  
+* Applied LLM research and experimentation  
+
+---
 
 <!-- Socials Icons Section -->
-## :mailbox: Connect With Me:
+## :mailbox: Connect With Me
 * [LinkedIn][linkedin]
 * [Twitter][twitter]
-* [Website][website] (under construction)
+* [Website][website]
 
 
 <!-- This section you create this variables that are used in Socials Icons Section and links -->
-[website]: https://www.derekpap.com
+[website]: https://www.derekpapierski.com
 [twitter]: https://twitter.com/dpapcodes
 [linkedin]: https://www.linkedin.com/in/derekpapierski/
-
-[datalemur]: https://datalemur.com/
-[lc]: https://leetcode.com/dpap/
-[umstats]: https://www.coursera.org/specializations/statistics-with-python
-[tableauyt]: https://www.youtube.com/watch?v=Wh4sCCZjOwo
 
